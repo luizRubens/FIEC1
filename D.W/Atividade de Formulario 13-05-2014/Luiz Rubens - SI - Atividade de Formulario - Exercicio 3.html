@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE>Cadastro</TITLE>
+</HEAD>
+<BODY>
+<FORM METHOD=”post”  ACTION=”curriculo.asp”>
+<b><p>PREENCHA SEU CURRICULO</p></b>
+
+
+<FIELDSET>
+<legend align=center>Dados Pessoais</legend>
+<table>
+<tr>
+<td>Nome:</td><td><INPUT TYPE=”TEXT”  NAME=”curriculo” VALUE=”digite seu nome” SIZE=”20” MAXLENGHT=”30”></td></tr>
+<tr><td>Endereço:</td><td><INPUT TYPE=”TEXT”  NAME=”curriculo” VALUE=”digite seu endereço” SIZE=”20” MAXLENGHT=”30”></td></tr>
+<tr><td>Telefone:</td><td><INPUT TYPE=”TEXT”  NAME=”curriculo” VALUE=”digite seu telefone” SIZE=”20” MAXLENGHT=”30”></td></tr>
+<tr><td>Idade:</td><td><INPUT TYPE=”TEXT”  NAME=”curriculo” VALUE=”digite seu idade” SIZE=”20” MAXLENGHT=”30”></td></tr>
+<tr><td>Cor preferida</td>
+<td><select>
+<OPTION SELECTED>Branco
+<OPTION>Preto
+<OPTION>Azul
+<OPTION>Vermelho
+</select>
+</td></tr>
+</table>
+</FIELDSET>
+<br>
+
+<FIELDSET>
+<legend align=center>Último Emprego</legend>
+<table>
+<tr>
+<td>
+Empresa:</td><td><INPUT TYPE=”TEXT”  NAME=”curriculo” VALUE=”digite o nome da empresa” SIZE=”20” MAXLENGHT=”30”></td></tr>
+<tr><td>Data de entrada:</td><td><INPUT TYPE=”TEXT”  NAME=”curriculo” VALUE=”digite a data” SIZE=”20” MAXLENGHT=”30”></td></tr>
+<tr><td>Data de saida:</td><td><INPUT TYPE=”TEXT”  NAME=”curriculo” VALUE=”digite a data” SIZE=”20” MAXLENGHT=”30”></td></tr>
+</table>
+<p>Resumo das atividades realizadas</p>
+<TEXTAREA NAME=”comentário” ROWS=”3” COLS=”20”>
+</textarea>
+<table>
+<tr>
+<td>Superior imediado:
+</td>
+<td><INPUT TYPE=”TEXT”  NAME=”curriculo” VALUE=”digite aqui” SIZE=”20” MAXLENGHT=”30”>
+</td>
+</tr>
+</table>
+</FIELDSET>
+<br>
+
+<FIELDSET>
+<legend align=center>Escolaridade</legend>
+<INPUT TYPE="radio" NAME="escolaridade" VALUE="ginasial" CHECKED>Ginasial
+<INPUT TYPE="radio" NAME="escolaridade" VALUE="colegial">Colegial
+<INPUT TYPE="radio" NAME="escolaridade" VALUE="cursando">Superior cursando
+<INPUT TYPE="radio" NAME="escolaridade" VALUE="cursando">Superior completo
+</FIELDSET>
+</FORM>
+</BODY>
+</HTML>

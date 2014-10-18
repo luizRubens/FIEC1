@@ -1,0 +1,38 @@
+create database si_tarde;
+ use si_tarde;
+ show tables;
+
+create table aluno (
+cod_aluno int not null auto_increment primary key,
+nome varchar (100) not null);
+
+insert into aluno (nome) values ("Luiz");
+
+insert into aluno (nome) values ("João");
+
+insert into aluno (nome) values ("Ana");
+
+
+insert into aluno (nome) values ("Eneida");
+
+insert into aluno (nome) values ("Yuri");
+
+insert into aluno (nome) values ("Sara");
+
+insert into aluno (nome) values ("Érica");
+
+insert into aluno (nome) values ("Camila");
+
+ insert into aluno (nome) values ("Sergio");
+
+insert into aluno (nome) values ("Paulo");
+
+insert into aluno (nome) values ("Jessica");
+
+ insert into aluno (nome) values ("Lucas");
+
+ insert into aluno (nome) values ("Eduardo");
+
+mysql> insert into aluno (nome) values ("Herbert");
+
+select * from aluno;

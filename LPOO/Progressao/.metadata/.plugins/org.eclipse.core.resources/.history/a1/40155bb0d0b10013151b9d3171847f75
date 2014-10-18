@@ -1,0 +1,24 @@
+package progressao;
+
+import javax.swing.JOptionPane;
+
+public class Ex39 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int fatoracao,num;
+
+		// Pega o número a ser fatorado e armazena na variável "num"
+		num=Integer.parseInt(JOptionPane.showInputDialog("Digite o número a ser fatorado(n!): "));
+
+		fatoracao = 1;// a partir dessa variável será feita a fatoração
+
+		while(num != 0){
+		fatoracao = num * fatoracao;
+		num--;
+		}
+		JOptionPane.showMessageDialog(null,"Resusltado: "+fatoracao);
+		}
+
+		}
+//esse programa tem a finalidade de fatorar um numero.

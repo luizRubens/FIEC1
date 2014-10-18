@@ -1,0 +1,54 @@
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\bin\Debug\Livraria.exe.config
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\bin\Debug\Livraria.exe
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\bin\Debug\Livraria.pdb
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.csprojResolveAssemblyReference.cache
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.Inicial.resources
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource.Cache
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.exe
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.pdb
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\Livraria\Livraria\obj\Debug\Livraria.Form_Cadastro_Editora.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\bin\Debug\Livraria.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\bin\Debug\Livraria.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.csprojResolveAssemblyReference.cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Inicial.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Cadastrar_Funcionario.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Cadastro_Cliente.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Cadastro_Editora.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Cadastro_Livro.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Login_Funcionario.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Nova_Venda.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource.Cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Venda_Alterar.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Venda_deletar.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Alterar_Editora.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Alterar_Cliente.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Alterar_Funcionario.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Alterar_Livro.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.exe
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.pdb
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\bin\Debug\Livraria.exe
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\bin\Debug\Livraria.pdb
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.csprojResolveAssemblyReference.cache
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Inicial.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Alterar_Cliente.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Alterar_Editora.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Alterar_Funcionario.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Alterar_Livro.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Alterar_Venda_livro.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Cadastrar_Funcionario.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Cadastro_Cliente.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Cadastro_Editora.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Cadastro_Livro.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Login_Funcionario.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Nova_Venda.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Nova_Venda_Seleção_Livro.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Venda_Alterar.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Form_Venda_deletar.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\LuizR.Ribas\Desktop\Desktop\FIEC\C#\Livraria\Livraria\obj\Debug\Livraria.csproj.GenerateResource.Cache

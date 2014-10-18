@@ -1,0 +1,26 @@
+{
+  "C:\\Arquivos de programas\\Java\\jre7\\lib\\rt.jar": {
+    "location": "C:\\Arquivos de programas\\Java\\jre7\\lib\\rt.jar",
+    "status": "UNRESOLVED"
+  },
+  "D:\\FIEC\\LPOO\\Java\\Tarde_selecao (Revisao da prova)\\src": {
+    "location": "D:\\FIEC\\LPOO\\Java\\Tarde_selecao (Revisao da prova)\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\FIEC\\LPOO\\Java\\Tarde_selecao (Revisao da prova)\\src\u0027. Skipped."
+  },
+  "C:\\Arquivos de programas\\Java\\jre6\\lib\\rt.jar": {
+    "location": "C:\\Arquivos de programas\\Java\\jre6\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "Could not transfer artifact jre:jre:zip:ovrm:1.0.0 from/to remote-models (http://download.eclipse.org/recommenders/models/kepler/): Error transferring file: null to http://download.eclipse.org/recommenders/models/kepler/jre/jre/1.0.0/jre-1.0.0-ovrm.zip"
+  },
+  "C:\\Program Files\\Java\\jre8\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:ovrm:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "H:\\FIEC\\LPOO\\Java\\Nova_viagem\\src": {
+    "location": "H:\\FIEC\\LPOO\\Java\\Nova_viagem\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027H:\\FIEC\\LPOO\\Java\\Nova_viagem\\src\u0027. Skipped."
+  }
+}

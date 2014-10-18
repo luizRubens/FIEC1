@@ -1,0 +1,35 @@
+1. Selecionar codigo, nome, codigo da região e nome da região dos clientes que tenham comprado computadores.
+ 
+select c.cli_cod, c.cli_nome, r.reg_cod, r.reg_desc
+ from cli c
+ inner join reg r on c.reg_cod=r.reg_cod
+ inner join ped p on p.cli_cod=c.cli_cod
+ inner join item i on i.ped_cod=p.ped_cod
+ inner join pro pr on i.pro_cod=pr.pro_cod
+ inner join gr g on pr.gr_cod=g.gr_cod
+ where g.gr_desc="computadores";
+
+
+2. Selecionar todos os dados de todos os clientes de todas as regiões exceto "Sudeste".
+Select c.*, r.reg_desc
+from cli c
+inner join reg r on c.reg_cod=r.reg_cod
+where r.reg_desc not in ("sudeste");
+
+
+3. Selecionar codigo de produto, descrição do produto, valor unitario, valor total, valor do desconto e valor liquido de cada item vendido.
+
+select pr.pro_cod, pr.pro_desc, i.item_unit, i.item_qtde * i.item_unit - i.item_qtde * i.item_unit * i.item_desco / 100 as Valor_Liquido, i.item_qtde * i.item_unit * i.item_desco/100 Valor_do_desconto_Aplicado, i.item_qtde * i.item_unit Valor_Total
+from item i
+inner join pro pr on i.pro_cod=pr.pro_cod;
+
+
+
+4. Selecionar o codigo, a descrição e valor de todos os produtos que NÃO FORAM VENDIDOS.
+
+ Select pro_cod, pro_desc, pro_custo, pro_venda
+ From pro
+ Where pro_cod not in (
+ Select pro_cod
+ From item);
+

@@ -1,0 +1,11 @@
+package pacote;
+
+public class Pacote {
+
+	private int cod_pacote, dias_pacote, valor, cod_tipo;
+	private String roteiro, dia_chegada, horario_saida, dia_saida, local_saida, horario_chegada, local_chegada;
+	
+	
+	
+	
+}

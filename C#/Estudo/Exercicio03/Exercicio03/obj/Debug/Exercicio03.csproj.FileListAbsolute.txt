@@ -1,0 +1,2 @@
+J:\FIEC\C#\Estudo\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe.config
+C:\Users\23860\Desktop\C#\Estudo\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe.config

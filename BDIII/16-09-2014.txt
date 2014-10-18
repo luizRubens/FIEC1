@@ -1,0 +1,9 @@
+select c.Nome_cliente, c.cidade, v.nome_vendedor, p.Num_pedido, p.data_entrega from vendedor v, cliente c, pedido p where v.cod_vendedor = p.cod_vendedor and c.Cod_cliente = p.cod_cliente and MONTH (p.data_entrega) = 06
+(Esse select mostra o nome, vendedor, pedido, data_entrega)
+
+select c.Nome_cliente, c.cidade, v.nome_vendedor, p.Num_pedido, p.data_compra from vendedor v, cliente c, pedido p where v.cod_vendedor = p.cod_vendedor and c.Cod_cliente = p.cod_cliente and MONTH(p.data_compra) BETWEEN 01 and 06 and YEAR(p.data_compra)=2011
+(Esse select mostra o nome, vendedor, pedido, data de compra dentro do 1º semestre de 2011)
+
+select c.Nome_cliente, c.cidade, v.nome_vendedor, p.Num_pedido, p.data_compra from vendedor v, cliente c, pedido p where v.cod_vendedor = p.cod_vendedor and c.Cod_cliente = p.cod_cliente and MONTH(p.data_compra) BETWEEN 01 and 06 and YEAR(p.data_compra) BETWEEN 2000 and 2015
+(Esse select mostra o nome, vendedor, pedido, data de compra dentro do intervalo de 2000 à 2015)
+

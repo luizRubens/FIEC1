@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>CPF</title>
+</head>
+<body>
+	<p>Forneça os dados e pressione o botão Enviar</p>
+	<form name="f" action="exemplo01.jsp " method="get">
+		<fieldset>
+			<table>
+				<tr>
+					<td>Nome: <input type="text" name="nome" size=25></td>
+				</tr>
+				<tr>
+					<td>RG: <input type="text" name="rg" size=12></td>
+				</tr>
+				<tr>
+					<td>CPF: <input type="text" name="cpf" size=12></td>
+				</tr>
+				<tr>
+					<td>Telefone: <input type="text" name="telefone" size=12></td>
+				</tr>
+			</table>
+		</fieldset>
+
+		<input type="submit" value="Enviar">
+		<input type="reset" value="Limpar">
+
+	</form>
+	<hr>
+	<form action="exemplo02.jsp" method="get">
+		CPF: <input type="text" name="cpfl" size=12>
+		<input type="submit" value="ler">
+
+	</form>
+
+</body>
+</html>

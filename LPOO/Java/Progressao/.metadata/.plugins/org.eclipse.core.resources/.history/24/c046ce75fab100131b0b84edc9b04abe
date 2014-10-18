@@ -1,0 +1,27 @@
+package progressao;
+
+import javax.swing.JOptionPane;
+
+public class Ex39 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double r1, r2, com, lar;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	}
+	//esse programa tem a finalidade de calcular a area de uma elipse.
+}

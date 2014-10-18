@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title></title>
+</head>
+<body bgcolor="lightblue">
+<FONT face="calibri" size=5px color="yellow">
+<p><b>CADASTRO DO CLIENTE</b></p>
+<FORM  NAME=”Locadora”  METHOD=”post”  ACTION=”locadora.asp”>
+
+<p>Nome: <input type="text" name="nome" value="" size="20" maxlenght="30"></p>
+
+<p>Data de nascimento: <input type="text" name="data" value="" size="20" maxlenght="30">
+Sexo: 
+<input type="radio" name="opcao" value="op1">Masculino 
+<input type="radio" name="opcao" value="op2">Feminino
+</p>
+<p>E-mail:<input type="text" name="email" value="" size="20" maxlenght="30">
+<p>Telefone:<input type="text" name="telefone" value="" size="20" maxlenght="30">
+</p>
+<p>Endereco:<input type="text" name="endereco" value="" size="20" maxlenght="30">
+
+<p>Bairro:<input type="text" name="bairro" value="" size="20" maxlenght="30">
+
+<p>Cidade: <input type="text" name="cidade" value="" size="20" maxlenght="30">
+Estado: 
+<select>
+<option>AC
+<option>AM
+<option>MA
+<option>CE
+<option>RS
+<option>RN
+</select>
+CEP:
+<INPUT TYPE="CEP" NAME=”cep” REQUIRED PATTERN="\d{5}-?\d{3}"/>
+</p>
+<p>Observações</p>
+<textarea name="observacoes" rows="5" cols="40">
+</textarea>
+<br>
+<br>
+<center>
+<input type="reset" value="Limpar campos">
+<input type="submit" value="Inscreva-se">
+</center>
+</font>
+</form>
+</body>
+</html>
+

@@ -1,0 +1,19 @@
+package progressao;
+
+import javax.swing.JOptionPane;
+
+public class Ex19 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int v1,v2,soma;
+		v1 = Integer.parseInt(JOptionPane.showInputDialog("Insira o primeiro valor"));
+		v2 = Integer.parseInt(JOptionPane.showInputDialog("Insira o segundo valor"));
+		while (v1<v2){
+			soma=v1+soma;
+		}
+		v1++;		
+	}
+	System.out.println (soma);
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.127+G:\FIEC\LPOO\Java\.metadata\.plugins\org.eclipse.jdt.core
+2063134082.index
+2311988750.index
+4206497545.index
+626908855.index
+3143739175.index
+2669950133.index

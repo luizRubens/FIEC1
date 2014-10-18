@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\bin\Debug\estudo para a prova.exe.config
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\bin\Debug\estudo para a prova.exe
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\bin\Debug\estudo para a prova.pdb
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\estudo para a prova.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\estudo para a prova_MarkupCompile.cache
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\estudo para a prova.g.resources
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\estudo_para_a_prova.Properties.Resources.resources
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\estudo para a prova.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\estudo para a prova.exe
+C:\Users\user\Desktop\Nova pasta\estudo para a prova\estudo para a prova\obj\Debug\estudo para a prova.pdb

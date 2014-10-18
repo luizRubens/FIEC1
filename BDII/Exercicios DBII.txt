@@ -1,0 +1,32 @@
+﻿Utilizando o banco de dados VENDAS, anteriormente implementado, elaborar consultas SQL que realizem as seguintes tarefas:
+
+
+1) Selecionar descrição da região e nome de todos os clientes;
+
+
+2) Selecionar todos os clientes cujos nomes iniciem por “J”;
+
+
+3) Selecionar todos os produtos com preço de venda superior a 500;
+
+
+4) Selecionar todos os computadores com preço superior a 2000;
+
+
+5) Selecionar todos os pedidos com situação “REPROVADO”;
+
+
+6) Selecionar todos os pedidos exibindo: código do produto, data do pedido e nome do cliente;
+
+
+7) Acrescentar a consulta anterior (6) a descrição da região rio cliente;
+
+
+8) Acrescentar a consulta anterior (7) a descrição da situação do pedido;
+
+
+9) Selecionar o valor total de todos os pedidos;
+
+
+10) Selecionar o valor total dos pedidos agrupados por descrição da situação dos pedidos;
+

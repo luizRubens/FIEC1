@@ -1,0 +1,88 @@
+﻿Utilizando o banco de dados VENDAS, anteriormente implementado, elaborar consultas SQL que realizem as seguintes tarefas:
+
+
+1) Selecionar descrição da região e nome de todos os clientes;
+
+select r.reg_desc, c.cli_nome
+from cli c
+inner join reg r on c.reg_cod=r.reg_cod;
+
+
+
+2) Selecionar todos os clientes cujos nomes iniciem por “J”;
+
+select c.cli_nome
+from cli c
+where c.cli_nome like "J%";
+
+
+3) Selecionar todos os produtos com preço de venda superior a 500;
+
+
+select pro_desc, pro_venda
+from pro
+where pro_venda>500;
+
+
+4) Selecionar todos os computadores com preço superior a 2000;
+
+select pro_desc Computadores_com_preco_maior_do_que_2000
+from pro
+where pro_venda>2000;
+
+
+
+5) Selecionar todos os pedidos com situação “REPROVADO”;
+
+select p.*
+from ped p
+inner join pedsitu s on p.pedsitu_cod = s.pedsitu_cod
+where s.pedsitu_desc = 'reprovado';
+
+
+6) Selecionar todos os pedidos exibindo: código do produto, data do pedido e nome do cliente;
+
+
+ select p.ped_cod, pr.pro_cod, p.ped_data, c.cli_nome
+ from ped p
+ inner join item i on i.ped_cod=p.ped_cod
+ inner join pro pr on i.pro_cod=pr.pro_cod
+ inner join cli c on p.cli_cod=c.cli_cod;
+
+7) Acrescentar a consulta anterior (6) a descrição da região rio cliente;
+
+select p.ped_cod,p.ped_data, pr.pro_cod,pr.pro_desc, c.cli_nome, r.reg_desc
+from ped p
+inner join item i on i.ped_cod=p.ped_cod
+inner join pro pr on i.pro_cod=pr.pro_cod
+inner join cli c on c.cli_cod=p.cli_cod
+inner join reg r on c.reg_cod=r.reg_cod;
+
+
+
+8) Acrescentar a consulta anterior (7) a descrição da situação do pedido;
+
+select p.ped_cod,p.ped_data, pr.pro_cod,pr.pro_desc, c.cli_nome, r.reg_desc, pe.pedsitu_desc
+from ped p
+inner join item i on i.ped_cod=p.ped_cod
+inner join pro pr on i.pro_cod=pr.pro_cod
+inner join cli c on c.cli_cod=p.cli_cod
+inner join reg r on c.reg_cod=r.reg_cod
+inner join pedsitu pe on p.pedsitu_cod=pe.pedsitu_cod;
+
+
+
+9) Selecionar o valor total de todos os pedidos;
+
+select sum(item_qtde * item_unit - item_qtde * item_unit * item_desco / 100) as Valor_Total from item;
+
+
+
+10) Selecionar o valor total dos pedidos agrupados por descrição da situação dos pedidos;
+
+
+select s.pedsitu_desc, sum(item_qtde * item_unit - item_qtde * item_unit * item_desco / 100) as Valor_Total from
+ped p
+inner join pedsitu s on p.pedsitu_cod = s.pedsitu_cod
+inner join item i on p.ped_cod - i.ped_cod
+group by s.pedsitu_desc;

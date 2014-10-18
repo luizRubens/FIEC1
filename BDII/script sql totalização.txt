@@ -1,0 +1,72 @@
+
+CREATE DATABASE vendas;
+
+CREATE TABLE produtos{
+id int auto_increment,
+nome varchar(50) not null,
+fabricante varchar(50) not null,
+quantidade  int not null,
+valor_unitario decimal(8,2) not null,
+tipo varchar(50) not null
+primary key(id)
+
+}
+
+
+
+/*
+.
+.
+.
+INSERT's
+.
+.
+.
+*/
+
+
+
+SELECT  fabricante, SUM(qtde) AS 'Quantidade em Estoque' 
+FROM produtos
+group by fabricante;
+
+SELECT  tipo , SUM(qtde) as 'quantidade em estoque' 
+FROM produtos
+GROUP BY tipo;
+
+SELECT tipo, SUM (qtde*valor_unitario) as 'quantidade em estoque'
+FROM produtos
+GROUP BY tipo;
+
+SELECT tipo,fabricante SUM (qtde*valor_unitario) as 'valor do estoque'
+FROM  produtos
+GROUP BY tipo,fabricante;
+
+
+/* 
+SELECT's de totalização
+
+*/
+
+
+
+SELECT COUNT (*) AS 	'Total de produtos cadastrados'
+FROM produtos;
+
+/*
+
+
+Contador de registros, realiza a checagem de quantos produtos estão cadastrados 
+na tabela
+
+
+*/
+
+
+UPDATE  produtos
+SET  nome='Iphone',valor_unitario=2500.00
+where nome = 'Ipone'
+
+
+
+

@@ -1,0 +1,17 @@
+﻿<Window x:Class="exercicio01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="259.895" Width="248.611">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="165*"/>
+            <ColumnDefinition Width="76*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Item" HorizontalAlignment="Left" Margin="97,23,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtItem" HorizontalAlignment="Left" Height="23" Margin="49,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="142" Grid.ColumnSpan="2" BorderBrush="Black"/>
+        <Label x:Name="itens" Content="Itens adicionados" HorizontalAlignment="Left" Margin="68,152,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Button x:Name="btAdicionar" Content="Adicionar" HorizontalAlignment="Left" Margin="82,105,0,0" VerticalAlignment="Top" Width="75" BorderBrush="Black" Click="btAdicionar_Click"/>
+        <ComboBox x:Name="comboAdd" HorizontalAlignment="Left" Margin="59,178,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2" BorderBrush="Black"/>
+
+    </Grid>
+</Window>

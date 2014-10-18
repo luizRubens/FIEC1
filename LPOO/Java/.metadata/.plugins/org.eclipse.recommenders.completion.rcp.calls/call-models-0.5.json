@@ -1,0 +1,58 @@
+{
+  "C:\\Documents and Settings\\23860\\Desktop\\Programação\\Java\\Java\\src": {
+    "location": "C:\\Documents and Settings\\23860\\Desktop\\Programação\\Java\\Java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Documents and Settings\\23860\\Desktop\\Programação\\Java\\Java\\src\u0027. Skipped."
+  },
+  "C:\\Arquivos de programas\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Arquivos de programas\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "D:\\FIEC\\LPOO\\Java\\Java\\src": {
+    "location": "D:\\FIEC\\LPOO\\Java\\Java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\FIEC\\LPOO\\Java\\Java\\src\u0027. Skipped."
+  },
+  "E:\\FIEC\\LPOO\\Java\\Java\\src": {
+    "location": "E:\\FIEC\\LPOO\\Java\\Java\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027E:\\FIEC\\LPOO\\Java\\Java\\src\u0027. Skipped."
+  },
+  "D:\\FIEC\\LPOO\\Java\\Tarde_selecao (Revisao da prova)\\src": {
+    "location": "D:\\FIEC\\LPOO\\Java\\Tarde_selecao (Revisao da prova)\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\FIEC\\LPOO\\Java\\Tarde_selecao (Revisao da prova)\\src\u0027. Skipped."
+  },
+  "D:\\FIEC\\LPOO\\Java\\PROVA_Luiz_02-06-201\\src": {
+    "location": "D:\\FIEC\\LPOO\\Java\\PROVA_Luiz_02-06-201\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\FIEC\\LPOO\\Java\\PROVA_Luiz_02-06-201\\src\u0027. Skipped."
+  },
+  "C:\\Arquivos de programas\\Java\\jre6\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Arquivos de programas\\Java\\jre6\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "G:\\FIEC\\LPOO\\Java\\PROVA_Luiz_02-06-201\\src": {
+    "location": "G:\\FIEC\\LPOO\\Java\\PROVA_Luiz_02-06-201\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027G:\\FIEC\\LPOO\\Java\\PROVA_Luiz_02-06-201\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre8\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre8\\lib\\rt.jar",
+    "status": "RESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre8\\lib\\rt.jar\u0027. Skipped."
+  },
+  "H:\\FIEC\\LPOO\\Java\\Nova_viagem\\src": {
+    "location": "H:\\FIEC\\LPOO\\Java\\Nova_viagem\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027H:\\FIEC\\LPOO\\Java\\Nova_viagem\\src\u0027. Skipped."
+  },
+  "H:\\FIEC\\LPOO\\Java\\PROVA_Luiz_02-06-201\\src": {
+    "location": "H:\\FIEC\\LPOO\\Java\\PROVA_Luiz_02-06-201\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027H:\\FIEC\\LPOO\\Java\\PROVA_Luiz_02-06-201\\src\u0027. Skipped."
+  }
+}

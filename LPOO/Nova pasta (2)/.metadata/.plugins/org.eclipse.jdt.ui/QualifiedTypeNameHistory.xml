@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="beans.Produto"/>
+<fullyQualifiedTypeName name="beans.ProdutoDAO"/>
+<fullyQualifiedTypeName name="sqlserver.Enquete"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="sqlserver.EnqueteDAO"/>
+<fullyQualifiedTypeName name="banco.BD"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="atividade_11_09_2014.Operador"/>
+<fullyQualifiedTypeName name="atividade_11_09_2014.BDSQL"/>
+<fullyQualifiedTypeName name="atividade_11_09_2014.OperadorDAO"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="banco.BDSQL"/>
+<fullyQualifiedTypeName name="banco.Bancario"/>
+<fullyQualifiedTypeName name="login.Usuario"/>
+<fullyQualifiedTypeName name="sqlserver.BDSQL"/>
+<fullyQualifiedTypeName name="login.UsuarioDAO"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="login.Criptografia"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+</qualifiedTypeNameHistroy>

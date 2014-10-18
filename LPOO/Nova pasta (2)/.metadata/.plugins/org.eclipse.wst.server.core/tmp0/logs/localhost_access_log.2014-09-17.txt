@@ -1,0 +1,14 @@
+127.0.0.1 - - [17/Sep/2014:16:24:27 -0300] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:24:31 -0300] "GET /JSP1/Semana05/Produto_Inserir.html HTTP/1.1" 200 483
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:24:55 -0300] "GET /JSP1/Semana05/Produto_Inserir.jsp?descricao=Detergente&preco=1 HTTP/1.1" 200 303
+127.0.0.1 - - [17/Sep/2014:16:36:25 -0300] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:36:34 -0300] "GET /JSP1/atividade_11_09_2014/Exercicio01.jsp HTTP/1.1" 200 448
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:36:49 -0300] "GET /JSP1/atividade_11_09_2014/Execicio01.html HTTP/1.1" 200 560
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:36:58 -0300] "GET /JSP1/atividade_11_09_2014/Exercicio01.jsp?num01=50&num02=100&operador=1 HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:37:06 -0300] "GET /JSP1/atividade_11_09_2014/Exercicio01.jsp?num01=100&num02=100&operador=1 HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:38:34 -0300] "GET /JSP1/atividade_11_09_2014/Exercicio01.jsp?num01=500&num02=100&operador=1 HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:40:42 -0300] "GET /JSP1/atividade_11_09_2014/Exercicio01.jsp?num01=1000&num02=200&operador=1 HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:41:04 -0300] "GET /JSP1/atividade_11_09_2014/Exercicio01.jsp?num01=1000&num02=200&operador=1 HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:41:20 -0300] "GET /JSP1/atividade_11_09_2014/Execicio01.html HTTP/1.1" 200 560
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:41:20 -0300] "GET /JSP1/atividade_11_09_2014/Execicio01.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Sep/2014:16:41:26 -0300] "GET /JSP1/atividade_11_09_2014/Exercicio01.jsp?num01=100&num02=10000&operador=%2B HTTP/1.1" 200 272

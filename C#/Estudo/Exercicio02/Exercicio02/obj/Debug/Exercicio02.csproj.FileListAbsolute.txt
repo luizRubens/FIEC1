@@ -1,0 +1,13 @@
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe.config
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csprojResolveAssemblyReference.cache
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\MainWindow.baml
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\MainWindow.g.cs
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\App.g.cs
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\Exercicio02_MarkupCompile.cache
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\Exercicio02.g.resources
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\Exercicio02.Properties.Resources.resources
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.GenerateResource.Cache
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\Exercicio02.exe
+J:\FIEC\C#\Estudo\Exercicio02\Exercicio02\obj\Debug\Exercicio02.pdb

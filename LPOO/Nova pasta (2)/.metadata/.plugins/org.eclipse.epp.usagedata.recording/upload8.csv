@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.jst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.jst.server.preview.adapter",1406219814892
+started,bundle,org.eclipse.wst.server.http.core,1.0.200.v20090429,"org.eclipse.wst.server.http.core",1406219814939
+started,bundle,org.eclipse.wst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.wst.server.preview.adapter",1406219814939
+error,log,,,"CoreException calling delegate importConfiguration() ServerWorkingCopy Tomcat v6.0 Server at localhost",1406219989254
+error,log,,,"Error uncompressing runtime",1406220195829
+error,log,,,"Error occurred installing server: C:\\Program Files\\bin\\catalina.bat (Acesso negado)",1406220195829
+opened,view,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui.ServersView",1406220313485
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406220313532
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.run",1406220313610
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1406220313844
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1406220314436
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1406220314936
+error,log,,,"Error calling delegate Client[org.eclipse.wst.server.ui.web]",1406220316308
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406220330364
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406220332142
+executed,command,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.launchShortcut.run",1406220332298
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1406220332330
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406220332985
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406220333000
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1406220346061
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406220347075
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406220746065
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406220993229
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406221068691
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406221071333

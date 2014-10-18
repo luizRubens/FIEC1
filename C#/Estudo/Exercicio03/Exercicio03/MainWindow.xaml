@@ -1,0 +1,19 @@
+﻿<Window x:Class="Exercicio03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="591.403" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Insira os dados do funcionario" HorizontalAlignment="Left" Margin="49,17,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nome" HorizontalAlignment="Left" Margin="46,52,0,0" VerticalAlignment="Top"/>
+        <Label Content="Hora Trabalhadas" HorizontalAlignment="Left" Margin="297,52,0,0" VerticalAlignment="Top"/>
+        <Label Content="Idade" HorizontalAlignment="Left" Margin="223,52,0,0" VerticalAlignment="Top"/>
+        <Label Content="Salario-Hora" HorizontalAlignment="Left" Margin="432,52,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="46,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="432,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="297,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="103"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="223,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="38"/>
+        <Label Content="Informações do funcionario" HorizontalAlignment="Left" Margin="49,113,0,0" VerticalAlignment="Top"/>
+        <ListBox HorizontalAlignment="Left" Height="143" Margin="49,144,0,0" VerticalAlignment="Top" Width="485"/>
+
+    </Grid>
+</Window>

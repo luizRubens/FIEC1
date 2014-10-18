@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;adadad&apos; to &apos;GUIs&apos;&#x0D;&#x0A;- Original project: &apos;CANTINAA&apos;&#x0D;&#x0A;- Original element: &apos;CANTINAA/src/adadad&apos;&#x0D;&#x0A;- Renamed element: &apos;CANTINAA/src/GUIs&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;adadad&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;adadad" name="GUIs" qualified="false" references="true" stamp="1404524715662" textual="false" version="1.0"/>
+</session>

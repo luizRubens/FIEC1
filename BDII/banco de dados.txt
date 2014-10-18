@@ -1,0 +1,41 @@
+Utilizando o banco de dados VENDAS, anteriormente implementado, elaborar consultas SQL que realizem as seguintes tarefas:
+
+1a) Selecionar código, nome, código da região e nome da região dos clientes que tenham “SILVA” no nome;
+
+
+
+select cli.cli_cod, cli.cli_nome, reg.reg_cod,reg.reg_desc from cli 
+Inner join reg 
+on cli.cli_cod = reg.reg_cod where cli.cli_nome like'%SILVA%';
+
+
+2a) Selecionar todos os dados de todos os clientes da região “SUL”
+select * from cli where cli.reg_cod=1;
+			
+
+
+
+3a) Selecionar todos os produtos da marca “ACER”
+
+select * from pro where pro.pro_desc like '%ACER%';
+
+
+4a) Selecionar todos os produtos vendidos por KG
+
+select * from pro where pro.uni_cod like '%KG%';
+
+
+
+5a) Código do produto, descrição do produto, valor unitário e valor do desconto de cada item vendido 
+
+
+select item.pro_cod, pro.pro_desc, item.item_unit, item.item_desco from item
+inner join pro 
+on item.pro_cod = pro.pro_cod;
+
+
+6a) Alterar a consulta anterior para exibir uma coluna com a mensagem “SEM DESCONTO” para os itens com desconto = 0
+
+select item.pro_cod, pro.pro_desc, item.item_unit, item.item_desco from item
+inner join pro 
+on item.pro_cod = pro.pro_cod where item.item_desco =0;

@@ -1,0 +1,19 @@
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\MyApp\MyApp\bin\Debug\MyApp.exe.config
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\MyApp\MyApp\bin\Debug\MyApp.exe
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\MyApp\MyApp\bin\Debug\MyApp.pdb
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.Cache
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.exe
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\obj\Debug\MyApp.csprojResolveAssemblyReference.cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\obj\Debug\MyApp.Venda_Inicial.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.Cache

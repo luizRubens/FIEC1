@@ -1,0 +1,117 @@
+package progressao;
+
+import javax.swing.JOptionPane;
+
+public class Ex18 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String p1;
+		String s1;
+		String p2;
+		String s2;
+		String p3;
+		String s3;
+		String p4;
+		String s4;
+		String p5;
+		String s5;
+		String p6;
+		String s6;
+		String p7;
+		String s7;
+		String p8;
+		String s8;
+		String p9;
+		String s9;
+		String p10;
+		String s10;
+
+		p1=JOptionPane.showInputDialog("Digite o nome de 10 funcionarios e seus sexos.\nDigite o primeiro nome.");
+		s1=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");
+		p2=JOptionPane.showInputDialog("Digite o segundo nome.");
+		s2=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");
+		p3=JOptionPane.showInputDialog("Digite o terceiro nome.");
+		s3=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");
+		p4=JOptionPane.showInputDialog("Digite o quarto nome.");
+		s4=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");	
+		p5=JOptionPane.showInputDialog("Digite o quinto nome.");
+		s5=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");
+		p6=JOptionPane.showInputDialog("Digite o sexo nome.");
+		s6=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");
+		p7=JOptionPane.showInputDialog("Digite o setimo nome.");
+		s7=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");
+		p8=JOptionPane.showInputDialog("Digite o oitavo nome.");
+		s8=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");
+		p9=JOptionPane.showInputDialog("Digite o nono nome.");
+		s9=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");
+		p10=JOptionPane.showInputDialog("Digite o decimo nome.");
+		s10=JOptionPane.showInputDialog("Insira o sexo Masculino (M) ou Feminino (F)");
+		
+		System.out.println("Homens: ");
+		if (s1=="F"){
+			System.out.print(p1+"-");
+		}
+		if (s2=="F"){
+			System.out.print(p2+"-");
+		}
+		if (s3=="F"){
+			System.out.print(p3+"-");
+		}
+		if (s4=="F"){
+			System.out.print(p4+"-");
+		}
+		if (s5=="F"){
+			System.out.print(p5+"-");
+		}
+		if (s6=="F"){
+			System.out.print(p6+"-");
+		}
+		if (s7=="F"){
+			System.out.print(p7+"-");
+		}
+		if (s8=="F"){
+			System.out.print(p8+"-");
+		}
+		if (s9=="F"){
+			System.out.print(p9+"-");
+		}
+		if (s10=="F"){
+			System.out.print(p10+"-");
+		}
+		System.out.println("Mulheres: ");
+		if (s1=="M"){
+			System.out.print(p1+"-");
+		}
+		if (s2=="M"){
+			System.out.print(p2+"-");
+		}
+		if (s3=="M"){
+			System.out.print(p3+"-");
+		}
+		if (s4=="M"){
+			System.out.print(p4+"-");
+		}
+		if (s5=="M"){
+			System.out.print(p5+"-");
+		}
+		if (s6=="M"){
+			System.out.print(p6+"-");
+		}
+		if (s7=="M"){
+			System.out.print(p7+"-");
+		}
+		if (s8=="M"){
+			System.out.print(p8+"-");
+		}
+		if (s9=="M"){
+			System.out.print(p9+"-");
+		}
+		if (s10=="M"){
+			System.out.print(p10+"-");
+		}
+
+	}
+
+}

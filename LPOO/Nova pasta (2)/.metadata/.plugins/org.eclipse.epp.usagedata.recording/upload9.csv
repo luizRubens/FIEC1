@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406221110751
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406221215006
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406221218031
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406221915822
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1406221917674
+error,log,,,"File not found: '/JSP/src/__2F_JSP_2F_WebContent_2F_Exemplo01_2E_jsp.java'",1406221981605
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1406221983296
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1406222061631
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1406222140935
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406222144248
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406222145817
+opened,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406222146012
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406222146030
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406222155610
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406222159612
+closed,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406222159612
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1406222160617
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1406222177400
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406222178503
+activated,editor,org.eclipse.jst.jsp.ui,1.1.400.v200904292008,"org.eclipse.jst.jsp.core.jspsource.source",1406222184673
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1406222187374
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1406222188898
+activated,editor,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser.editor",1406222190432
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406222193639
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1406222196115

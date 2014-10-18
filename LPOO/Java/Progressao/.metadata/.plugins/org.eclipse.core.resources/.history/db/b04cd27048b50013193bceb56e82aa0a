@@ -1,0 +1,22 @@
+package progressao;
+
+import javax.swing.JOptionPane;
+
+public class Ex28 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		JOptionPane.showMessageDialog(null, "Veja os dez jogos da mega sena.");
+		 for (double i=0;i<=60;){
+			 
+			 i=Math.random();
+			 
+			 JOptionPane.showMessageDialog(null, i);			 			 
+			 
+		 }
+				
+	}
+
+}

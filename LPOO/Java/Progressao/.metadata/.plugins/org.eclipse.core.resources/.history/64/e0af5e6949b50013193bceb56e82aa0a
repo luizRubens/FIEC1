@@ -1,0 +1,52 @@
+package progressao;
+
+import java.sql.Date;
+import java.util.Iterator;
+import java.util.Random;
+import java.util.Set;
+import java.util.TreeSet;
+
+public class Ex28 {
+	public class GeradorDeNumerosAleatorios {
+		private Random random;
+		private Set <Integer> sorteados;
+
+		/* Construtor - Nao recebe parametros */
+		public GeradorDeNumerosAleatorios() {
+			random = new Random();
+			sorteados = new TreeSet <Integer> ();
+		}
+
+		/* Sorteia uma quantidade de elementos e os devolve em uma estrutura do tipo Set que nao contem duplicatas. */
+		public Set <Integer> sorteia (int quantidade) {
+			int contador;
+			int numeroSorteado = 0;
+			for (contador = 0; contador < quantidade; contador++) {
+				numeroSorteado = 1 + random.nextInt(60);
+				while (sorteados.contains (numeroSorteado)) {
+					numeroSorteado = 1 + random.nextInt(60);
+				}
+				sorteados.add(numeroSorteado);
+			}
+			return sorteados;
+		}
+
+		/* Imprime os numeros sorteados */
+		public void imprimeSorteados() {
+			Iterator <Integer> iterator = sorteados.iterator();
+			while (iterator.hasNext()) {
+				Integer i = iterator.next();
+				System.out.printf ("%d ", i.intValue());
+			}
+		}
+
+		/* Metodo principal, chamado quando o programa entra em execucao */
+		public void main (String[] args) {
+			GeradorDeNumerosAleatorios gerador = new GeradorDeNumerosAleatorios();
+			Set sorteados = gerador.sorteia(6);
+			gerador.imprimeSorteados();
+		}
+
+	}
+
+}

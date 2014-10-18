@@ -1,0 +1,16 @@
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\bin\Debug\Revisão da prova.exe.config
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\bin\Debug\Revisão da prova.exe
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\bin\Debug\Revisão da prova.pdb
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\Revisão da prova.csprojResolveAssemblyReference.cache
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\MainWindow.baml
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\MainWindow.g.cs
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\App.g.cs
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\Revisão da prova_MarkupCompile.cache
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\Revisão da prova.g.resources
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\Revisão_da_prova.Properties.Resources.resources
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\Revisão da prova.csproj.GenerateResource.Cache
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\Revisão da prova.exe
+C:\Users\23860\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\Revisão da prova.pdb
+C:\Users\user\Desktop\Nova pasta\Revisão da prova\Revisão da prova\bin\Debug\Revisão da prova.exe.config
+C:\Users\user\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\Revisão da prova.exe
+C:\Users\user\Desktop\Nova pasta\Revisão da prova\Revisão da prova\obj\Debug\Revisão da prova.pdb

@@ -1,0 +1,9 @@
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\TEste_Data_Set_SQL_Server\TEste_Data_Set_SQL_Server\bin\Debug\TEste_Data_Set_SQL_Server.exe.config
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\TEste_Data_Set_SQL_Server\TEste_Data_Set_SQL_Server\bin\Debug\TEste_Data_Set_SQL_Server.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\TEste_Data_Set_SQL_Server\TEste_Data_Set_SQL_Server\bin\Debug\TEste_Data_Set_SQL_Server.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\TEste_Data_Set_SQL_Server\TEste_Data_Set_SQL_Server\obj\Debug\TEste_Data_Set_SQL_Server.csprojResolveAssemblyReference.cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\TEste_Data_Set_SQL_Server\TEste_Data_Set_SQL_Server\obj\Debug\TEste_Data_Set_SQL_Server.Form1.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\TEste_Data_Set_SQL_Server\TEste_Data_Set_SQL_Server\obj\Debug\TEste_Data_Set_SQL_Server.Properties.Resources.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\TEste_Data_Set_SQL_Server\TEste_Data_Set_SQL_Server\obj\Debug\TEste_Data_Set_SQL_Server.csproj.GenerateResource.Cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\TEste_Data_Set_SQL_Server\TEste_Data_Set_SQL_Server\obj\Debug\TEste_Data_Set_SQL_Server.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\TEste_Data_Set_SQL_Server\TEste_Data_Set_SQL_Server\obj\Debug\TEste_Data_Set_SQL_Server.pdb

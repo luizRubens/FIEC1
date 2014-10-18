@@ -1,0 +1,9 @@
+INDEX VERSION 1.3+E:\FIEC\LPOO\Nova pasta (2)\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+775888816.index
+1257742345.index
+2335039091.index
+633219795.index
+4148022788.index
+2991578726.index
+3700161847.index
+3498065908.index

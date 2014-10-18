@@ -1,0 +1,48 @@
+C:\CSharpProjetos\MyApp\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.exe.config
+C:\CSharpProjetos\MyApp\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.exe
+C:\CSharpProjetos\MyApp\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.pdb
+C:\CSharpProjetos\MyApp\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.csprojResolveAssemblyReference.cache
+C:\CSharpProjetos\MyApp\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.Properties.Resources.resources
+C:\CSharpProjetos\MyApp\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.csproj.GenerateResource.Cache
+C:\CSharpProjetos\MyApp\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.exe
+C:\CSharpProjetos\MyApp\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.pdb
+C:\CSharpProjetos\MyApp\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmLogin.resources
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.exe.config
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.exe
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.pdb
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.exe
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.pdb
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.csprojResolveAssemblyReference.cache
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmLogin.resources
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.Properties.Resources.resources
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.csproj.GenerateResource.Cache
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmPrincipal.resources
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmProdutos.resources
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmListaProduto.resources
+C:\Projetos C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmVenda.resources
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.exe.config
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.exe
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.pdb
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.exe
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.pdb
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.csprojResolveAssemblyReference.cache
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmListaProduto.resources
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmLogin.resources
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmPrincipal.resources
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmProdutos.resources
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmVenda.resources
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.Properties.Resources.resources
+C:\CSharpProjetos\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.csproj.GenerateResource.Cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.exe.config
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.csprojResolveAssemblyReference.cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmListaProduto.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmLogin.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmPrincipal.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmProdutos.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.frmVenda.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.Properties.Resources.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\obj\Debug\aula_03_Setembro.csproj.GenerateResource.Cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula_03_Setembro\aula_03_Setembro\bin\Debug\aula_03_Setembro.pdb

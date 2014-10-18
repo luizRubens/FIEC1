@@ -1,0 +1,18 @@
+package provaDP;
+
+import javax.swing.JOptionPane;
+
+public class Exercicio03 {
+
+	public static void main(String[] args) {
+		
+		int n1;
+		
+		n1=Integer.parseInt(JOptionPane.showMessageDialog(null, "Digite um numero que representa o mes e veja os dias do mes.\nDigite o numero do mes."));
+		
+		
+		
+		
+	}
+
+}

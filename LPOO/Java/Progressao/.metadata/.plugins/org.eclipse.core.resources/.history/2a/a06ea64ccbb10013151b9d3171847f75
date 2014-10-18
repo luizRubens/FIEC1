@@ -1,0 +1,21 @@
+package progressao;
+
+import javax.swing.JOptionPane;
+
+public class Ex39 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n, total=1;
+
+		n=Integer.parseInt(JOptionPane.showInputDialog("Informe um número para que calcularmos seu fatorial"));
+
+		while (n>0){
+			total = total*n;
+			n--;
+		}
+		System.out.println("Total: "+total);
+	}
+}
+//esse programa tem a finalidade de fatorar um numero.
+

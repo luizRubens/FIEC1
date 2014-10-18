@@ -1,0 +1,18 @@
+c:\users\luizr.ribas\documents\visual studio 2013\Projects\atividade 06-08\atividade 06-08\bin\Debug\atividade 06-08.exe.config
+C:\Users\LuizR.Ribas\Documents\Visual Studio 2013\Projects\atividade 06-08\atividade 06-08\bin\Debug\atividade 06-08.exe
+C:\Users\LuizR.Ribas\Documents\Visual Studio 2013\Projects\atividade 06-08\atividade 06-08\bin\Debug\atividade 06-08.pdb
+C:\Users\LuizR.Ribas\Documents\Visual Studio 2013\Projects\atividade 06-08\atividade 06-08\obj\Debug\atividade 06-08.csprojResolveAssemblyReference.cache
+C:\Users\LuizR.Ribas\Documents\Visual Studio 2013\Projects\atividade 06-08\atividade 06-08\obj\Debug\atividade_06_08.Form1.resources
+C:\Users\LuizR.Ribas\Documents\Visual Studio 2013\Projects\atividade 06-08\atividade 06-08\obj\Debug\atividade_06_08.Properties.Resources.resources
+C:\Users\LuizR.Ribas\Documents\Visual Studio 2013\Projects\atividade 06-08\atividade 06-08\obj\Debug\atividade 06-08.csproj.GenerateResource.Cache
+C:\Users\LuizR.Ribas\Documents\Visual Studio 2013\Projects\atividade 06-08\atividade 06-08\obj\Debug\atividade 06-08.exe
+C:\Users\LuizR.Ribas\Documents\Visual Studio 2013\Projects\atividade 06-08\atividade 06-08\obj\Debug\atividade 06-08.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\atividade 06-08\atividade 06-08\bin\Debug\atividade 06-08.exe.config
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\atividade 06-08\atividade 06-08\obj\Debug\atividade 06-08.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\atividade 06-08\atividade 06-08\obj\Debug\atividade 06-08.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\atividade 06-08\atividade 06-08\bin\Debug\atividade 06-08.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\atividade 06-08\atividade 06-08\bin\Debug\atividade 06-08.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\atividade 06-08\atividade 06-08\obj\Debug\atividade 06-08.csprojResolveAssemblyReference.cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\atividade 06-08\atividade 06-08\obj\Debug\atividade_06_08.Form1.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\atividade 06-08\atividade 06-08\obj\Debug\atividade_06_08.Properties.Resources.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\atividade 06-08\atividade 06-08\obj\Debug\atividade 06-08.csproj.GenerateResource.Cache

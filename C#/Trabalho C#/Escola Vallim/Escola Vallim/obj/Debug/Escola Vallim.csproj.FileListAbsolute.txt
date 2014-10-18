@@ -1,0 +1,57 @@
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.exe.config
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.exe
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.pdb
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.csprojResolveAssemblyReference.cache
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form1.resources
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Forms_Aluno.resources
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Properties.Resources.resources
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.csproj.GenerateResource.Cache
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.exe
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.pdb
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_Professor.resources
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_disciplina.resources
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_curso.resources
+C:\Users\23860\Desktop\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Busca_professor.resources
+K:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.exe.config
+K:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.exe
+K:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.pdb
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.exe.config
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.exe
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.pdb
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.csprojResolveAssemblyReference.cache
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Busca_professor.resources
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form1.resources
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Forms_Aluno.resources
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_curso.resources
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_disciplina.resources
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_Professor.resources
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Properties.Resources.resources
+E:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.csproj.GenerateResource.Cache
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.exe.config
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.exe
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.pdb
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.exe
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.pdb
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.csprojResolveAssemblyReference.cache
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Busca_professor.resources
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form1.resources
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Forms_Aluno.resources
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_curso.resources
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_disciplina.resources
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_Professor.resources
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Properties.Resources.resources
+H:\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.csproj.GenerateResource.Cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.exe.config
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\bin\Debug\Escola Vallim.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.csprojResolveAssemblyReference.cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Busca_professor.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form1.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Forms_Aluno.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_curso.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_disciplina.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Form_Professor.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola_Vallim.Properties.Resources.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\Trabalho C#\Escola Vallim\Escola Vallim\obj\Debug\Escola Vallim.csproj.GenerateResource.Cache

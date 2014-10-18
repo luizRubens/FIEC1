@@ -1,0 +1,41 @@
+package progressao;
+
+import javax.swing.JOptionPane;
+
+public class Ex4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double x1;
+		double x2;
+		double delta;
+		double a;
+		double b;
+		double c;
+		a = Integer.parseInt(JOptionPane.showInputDialog("Dada a formula de 2º grau forneça os valores\nDigite o valor de A"));
+		b = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor de B"));
+		c = Integer.parseInt(JOptionPane.showInputDialog("Digite o valor de C"));
+		delta = ((b*b)-(4*a*c));
+		if (a==0){
+			JOptionPane.showMessageDialog(null, "O valor de A tem que ser diferente de 0");
+		}
+		if (delta>0){
+			JOptionPane.showMessageDialog(null,"Existem duas raizes");
+			x1=((-b+Math.sqrt(delta))/2*a);
+			x2=((-b-Math.sqrt(delta))/2*a);
+			JOptionPane.showMessageDialog(null,"Raiz de x1="+x1+"\nRaiz de x2="+x2);
+
+		}
+		if (delta==0){
+			JOptionPane.showMessageDialog(null, "Duas raizes iguais");
+			x1=((-b+Math.sqrt(delta))/2*a);
+			x2=((-b-Math.sqrt(delta))/2*a);
+			JOptionPane.showMessageDialog(null,"Raiz de x1="+x1+"\nRaiz de x2="+x2);
+		}
+		if (delta<0) {
+			JOptionPane.showMessageDialog(null, "Não existe raiz para delta negativo");
+
+		}
+		System.exit(0);
+	}
+}

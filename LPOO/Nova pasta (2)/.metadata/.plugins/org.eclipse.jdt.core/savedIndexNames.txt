@@ -1,0 +1,10 @@
+INDEX VERSION 1.127+E:\FIEC\LPOO\Nova pasta (2)\.metadata\.plugins\org.eclipse.jdt.core
+1257742345.index
+1182824110.index
+1638362419.index
+2195518733.index
+3218378157.index
+1244086392.index
+3700161847.index
+1116147920.index
+3498065908.index

@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Exemplo de pagina criada em CSS</title>
+<style type="text/css">
+h1{color:red;font-size:50px; font-family:"Comic Sans Ms","cursive"}
+h2,h3 {font-style:italic;
+text-align:center;
+background:yellow;
+font-size:30px;
+font-family:Arial, Helvetica, sans-serif
+	}
+p{color: #FC6   ; font-size:20px;text-align:center}
+
+body{background-image:url(../Meus%20documentos/CSS/Inverno.jpg)
+</style>
+</head>
+<body>
+
+<h1>Exemplo</h1>
+<h2>Com o Css criar</h2>
+<h3>Estilos é muito</h3>
+<p>Facil<p>
+<p>Facil<p>
+<h1>Aula de CSS</h1>
+</body>
+</html>

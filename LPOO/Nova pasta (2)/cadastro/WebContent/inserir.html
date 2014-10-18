@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Inserir Cliente</title>
+        <link rel="stylesheet" href="estilo.css" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    </head>
+    <body>
+        <form name="f_cadastro" action="inserircliente.jsp" method="get">
+            <table border="0" cellspacing="4">
+                <tr>
+                    <td class="Titulo" align="center" colspan="2">Inserir Cliente</td>
+                </tr>
+                <tr>
+                    <td class="Label1">Código:</td>
+                    <td><input  class="Text1" type="text" name="p_codigo" size="10" maxlength="5"></td>
+                </tr>
+                <tr>
+                    <td class="Label1">Nome:</td>
+                    <td><input class="Text1" type="text" name="p_nome" size="30" maxlength="30"></td>
+                </tr>
+            </table>
+            <input  class="Botao" type="button" value=" Inserir " 
+                    onClick="if(f_cadastro.p_codigo.value!='' && f_cadastro.p_nome.value!='') 
+                        submit(); else alert('Campos vazios')">
+            <input class="Botao" type="button" value="Cancelar" onClick="window.open('blank.html','dir')">
+        </form>
+    </body>
+</html>

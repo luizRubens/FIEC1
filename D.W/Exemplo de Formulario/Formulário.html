@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8" />
+<title>Number type</title>
+</head>
+<body>
+<form method="post" action=" maladireta.asp" name="guiaform">
+<table width="50%" border="0" align="center">
+<tr>
+<td width="97" align="right">Nome:</td>
+<td width="295" colspan="3"><input type="text" name="Nome" size="32"
+maxlength="50" /></td>
+</tr>
+<td width="97" align="right">Fone:</td>
+<td width="295" colspan="3"><input type="text" name="Fone" size="19"
+maxlength="19" /></td>
+</tr>
+<tr>
+<td width="97" align="right">E-mail:</td>
+<td width="295" colspan="3"><input type="text" name="e_mail" size="32"
+maxlength="50" /></td>
+<td width="97" align="right">CEP:</td>
+<td><input  name="CEP" type="CEP" required pattern="\d{5}-?\d{3}"/></td>
+</tr>
+<tr>
+<td width="97" align="right" valign="top">Comentario:</td>
+<td width="295" colspan="3" valign="top"><textarea name="Comentario"
+rows="3" cols="40"></textarea></td>
+</tr>
+</table>
+<table align="center" width="50%">
+<tr>
+<td colspan="2">De sua opiniao sobre  o produto pesquisado</td>
+</tr>
+<tr bgcolor="gray">
+<td><input type="radio" name="Pergunta" value="bom" checked="true"
+/>Bom</td>
+<td><input type="radio" name="Pergunta" value="otimo" checked="true"
+/>Otimo</td>
+<td><input type="radio" name="Pergunta" value="maismenos" checked="true"
+/>Razoavel</td>
+</tr>
+</table>
+<dl>
+<dd>Marque a linguagem de programacao que voce mais gosta
+<input type="radio" name="linguagem" value="delphi" checked>Delphi
+<input type="radio" name="linguagem" value="java">Java
+<input type="radio" name="linguagem" value="php">PHP
+<dd>Qual navegador voce utiliza? 
+<input type="radio" name="navegador" value="internet">Internet Explorer
+<input type="radio" name="navegador" value="firefox">Mozilla Firefox
+<input type="radio" name="navegador" value="google" checked>Google Chrome
+</dl>
+<select name="opcional" multiple size="5">
+<option>Administracao de Empresas
+<option>Meio Ambiente
+<option selected>Tecnico em Informatica
+<option>Eletronica
+<option>Edificacoes
+<option>Enfermagem
+<option>Logistica
+<option>Seguranca do Trabalho
+</select>
+<table align="center">
+<tr>
+<td align="right"><input type="submit" value="Enviar" /></td>
+<td><input type="reset" value="Deletar" /></td>
+<td><button name="reset" type="reset"><IMG width="25" src="logo.ico"></button>
+</tr>
+</table>
+</form>
+</body>
+</html>

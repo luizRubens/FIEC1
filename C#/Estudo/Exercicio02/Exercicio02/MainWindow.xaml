@@ -1,0 +1,33 @@
+﻿<Window x:Class="Exercicio02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="Dada a formula realize o calculo" HorizontalAlignment="Left" Margin="37,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="a" HorizontalAlignment="Left" Margin="38,61,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="f" HorizontalAlignment="Left" Margin="178,61,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="g" HorizontalAlignment="Left" Margin="178,107,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="i" HorizontalAlignment="Left" Margin="178,206,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="b" HorizontalAlignment="Left" Margin="37,107,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="c" HorizontalAlignment="Left" Margin="37,156,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="h" HorizontalAlignment="Left" Margin="178,156,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="j" HorizontalAlignment="Left" Margin="178,263,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="e" HorizontalAlignment="Left" Margin="37,263,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="d" HorizontalAlignment="Left" Margin="37,206,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <Label Content="X =" HorizontalAlignment="Left" Margin="300,61,0,0" VerticalAlignment="Top" FontFamily="Marck Script" FontSize="22"/>
+        <ListBox x:Name="list" HorizontalAlignment="Left" Height="100" Margin="347,69,0,0" VerticalAlignment="Top" Width="66" BorderBrush="White" SelectionChanged="ListBox_SelectionChanged"/>
+        <Button x:Name="btCalcular" Content="Calcular" HorizontalAlignment="Left" Margin="300,271,0,0" VerticalAlignment="Top" Width="75" Click="btCalcular_Click"/>
+        <Button x:Name="btSair" Content="Sair" HorizontalAlignment="Left" Margin="406,271,0,0" VerticalAlignment="Top" Width="75" Click="btSair_Click"/>
+        <TextBox x:Name="txtA" HorizontalAlignment="Left" Height="23" Margin="63,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="txtH" HorizontalAlignment="Left" Height="23" Margin="203,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53"/>
+        <TextBox x:Name="txtG" HorizontalAlignment="Left" Height="23" Margin="203,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53"/>
+        <TextBox x:Name="txtF" HorizontalAlignment="Left" Height="23" Margin="201,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="txtE" HorizontalAlignment="Left" Height="23" Margin="63,270,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="txtD" HorizontalAlignment="Left" Height="23" Margin="64,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="54"/>
+        <TextBox x:Name="txtC" HorizontalAlignment="Left" Height="23" Margin="63,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="txtB" HorizontalAlignment="Left" Height="23" Margin="63,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="txtJ" HorizontalAlignment="Left" Height="23" Margin="203,271,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53"/>
+        <TextBox x:Name="txtI" HorizontalAlignment="Left" Height="23" Margin="203,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53"/>
+
+    </Grid>
+</Window>

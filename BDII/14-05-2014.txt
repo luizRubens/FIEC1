@@ -1,0 +1,65 @@
+select r.reg_desc, c.cli_nome
+from cli c
+inner join reg r on c.reg_cod = r.reg_cod;
+
+select cli_nome from Cli where cli_nome like 'J%';
+
+select pro_desc, pro_venda from pro where pro_venda >500;
+
+select gr_cod, pro_desc, pro_venda from pro;
+
+select from gr;
+
+select p.pro_desc, p.pro_venda
+from pro p
+inner join gr g on p.gr_cod = g.gr_cod
+where g.gr_desc = 'computadores';
+
+select p.*
+from ped p
+inner join pedsitu s on p.pedsitu_cod = s.pedsitu_cod
+where s.pedsitu_desc = 'aprovado';
+
+
+select p.ped_data, c.cli_nome, d.pro_cod
+from ped p
+inner join cli c on p.cli_cod = c.cli_cod
+inner join item i on p.ped_cod = i.ped_cod
+inner join pro d on i.pro_cod = d.pro_cod
+
+select p.ped_cod, p.ped_data, c.cli_nome
+
+
+select p.ped_data, r.reg_desc, c.cli_nome, d.pro_desc
+from ped p
+inner join cli c on p.cli_cod = c.cli_cod
+inner join item i on p.ped_cod = i.ped_cod
+inner join pro d on i.pro_
+
+select p.ped_data, r.reg_desc, substr (c.cli_nome,1,10), substr (d.pro_desc,1,10), s.pedsitu_desc
+from ped p
+inner join cli c on p.cli_nome = c.cli_cod
+inner join item i on p.ped_cod = i.ped_cod
+inner join pro d on i.pro_cod = d.pro_desc
+inner join reg r on c.reg_cod = r.reg_cod
+inner join pedsitu s on p.pedsitu_cod = s.pedsitu_cod;
+
+select item_qtde * item_unit from item;
+
+select item_qtde * item_unit - item_qtde * item_unit * item_desco / 100 from item;
+
+
+
+select sum(item_qtde * item_unit - item_qtde * item_unit * item_desco / 100) as Valor_Total from item;
+
+select s.pedsitu_desc, sum(item_qtde * item_unit - item_qtde * item_unit * item_desco / 100) as Valor_Total from
+ped p
+inner join pedsitu s on p.pedsitu_cod = s.pedsitu_cod
+inner join item i on p.ped_cod - i.ped_cod
+group by s.pedsitu_desc;
+
+
+
+
+
+ 

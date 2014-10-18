@@ -1,0 +1,60 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="494.737" Width="842.105" ResizeMode="NoResize">
+    <Grid>
+        <Label Content="CPF" HorizontalAlignment="Left" Margin="50,122,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nome" HorizontalAlignment="Left" Margin="50,45,0,0" VerticalAlignment="Top" Width="44" RenderTransformOrigin="0.574,0.558"/>
+        <Label Content="Estado" HorizontalAlignment="Left" Margin="50,354,0,0" VerticalAlignment="Top"/>
+        <Label Content="Endereço" HorizontalAlignment="Left" Margin="50,200,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cidade" HorizontalAlignment="Left" Margin="50,280,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtcpf" HorizontalAlignment="Left" Height="23" Margin="50,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256"/>
+        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Height="23" Margin="50,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256"/>
+        <TextBox x:Name="txtEndereço" HorizontalAlignment="Left" Height="23" Margin="50,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256"/>
+        <TextBox x:Name="txtCidade" HorizontalAlignment="Left" Height="23" Margin="50,311,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="256"/>
+        <Label Content="Estado Civil" HorizontalAlignment="Left" Margin="420,42,0,0" VerticalAlignment="Top"/>
+        <Label Content="Defiente Fisico" HorizontalAlignment="Left" Margin="641,42,0,0" VerticalAlignment="Top"/>
+        <GridSplitter HorizontalAlignment="Left" Height="467" Margin="365,0,0,0" VerticalAlignment="Top" Width="1" Background="Black" BorderBrush="Black" OpacityMask="Black"/>
+        <RadioButton x:Name="radioSim" Content="Sim" HorizontalAlignment="Left" Margin="649,73,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioNao" Content="Não" HorizontalAlignment="Left" Margin="649,94,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboCivil" HorizontalAlignment="Left" Margin="420,74,0,0" VerticalAlignment="Top" Width="120" ToolTip="" SelectionChanged="comboCivil_SelectionChanged">
+            <ComboBoxItem Content="Solteiro (a)"/>
+            <ComboBoxItem Content="Casado (a)"/>
+            <ComboBoxItem Content="Viuvo (a)"/>
+            <ComboBoxItem Content="Namorando (a)"/>
+        </ComboBox>
+        <ListBox x:Name="list" HorizontalAlignment="Left" Height="285" Margin="403,158,0,0" VerticalAlignment="Top" Width="390"/>
+        <ComboBox x:Name="comboEstado" HorizontalAlignment="Left" Margin="50,385,0,0" VerticalAlignment="Top" Width="145" ToolTip="Selecione">
+            <ComboBoxItem Content="AC"/>
+            <ComboBoxItem Content="AL"/>
+            <ComboBoxItem Content="AP"/>
+            <ComboBoxItem Content="AM"/>
+            <ComboBoxItem Content="BA"/>
+            <ComboBoxItem Content="CE"/>
+            <ComboBoxItem Content="DF"/>
+            <ComboBoxItem Content="ES"/>
+            <ComboBoxItem Content="GO"/>
+            <ComboBoxItem Content="MA"/>
+            <ComboBoxItem Content="MT"/>
+            <ComboBoxItem Content="MS"/>
+            <ComboBoxItem Content="MG"/>
+            <ComboBoxItem Content="PR"/>
+            <ComboBoxItem Content="PB"/>
+            <ComboBoxItem Content="PA"/>
+            <ComboBoxItem Content="PE"/>
+            <ComboBoxItem Content="PI"/>
+            <ComboBoxItem Content="RJ"/>
+            <ComboBoxItem Content="RN"/>
+            <ComboBoxItem Content="RS"/>
+            <ComboBoxItem Content="RO"/>
+            <ComboBoxItem Content="RR"/>
+            <ComboBoxItem Content="SC"/>
+            <ComboBoxItem Content="SE"/>
+            <ComboBoxItem Content="SP"/>
+            <ComboBoxItem Content="TO"/>
+        </ComboBox>
+        <Button x:Name="btSair" Content="Sair" HorizontalAlignment="Left" Margin="420,122,0,0" VerticalAlignment="Top" Width="100" Click="btSair_Click"/>
+        <Button x:Name="btOk" Content="OK" HorizontalAlignment="Left" Margin="649,122,0,0" VerticalAlignment="Top" Width="102" Click="btOk_Click"/>
+
+    </Grid>
+</Window>

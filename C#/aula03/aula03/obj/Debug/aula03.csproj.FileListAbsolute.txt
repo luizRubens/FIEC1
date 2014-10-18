@@ -1,0 +1,9 @@
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula03\aula03\bin\Debug\aula03.exe.config
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula03\aula03\bin\Debug\aula03.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula03\aula03\bin\Debug\aula03.pdb
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula03\aula03\obj\Debug\aula03.csprojResolveAssemblyReference.cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula03\aula03\obj\Debug\aula03.Clientes.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula03\aula03\obj\Debug\aula03.Properties.Resources.resources
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula03\aula03\obj\Debug\aula03.csproj.GenerateResource.Cache
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula03\aula03\obj\Debug\aula03.exe
+C:\Users\LuizR.Ribas\Desktop\FIEC\C#\aula03\aula03\obj\Debug\aula03.pdb
